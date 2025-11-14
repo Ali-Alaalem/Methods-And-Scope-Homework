@@ -2,7 +2,7 @@ public class Calculator {
 
     private static int total_num_of_calc=0;
     protected static int last_calc_result=0;
-    public static String calculator_name="";
+    public static String calculator_name="MyCalculator";
 
     public static int Addition(int a, int b){
         int sum=a + b;
